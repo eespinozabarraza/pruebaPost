@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "295414539708",
+    "firebase_url": "https://pruebapost-d84eb.firebaseio.com",
+    "project_id": "pruebapost-d84eb",
+    "storage_bucket": "pruebapost-d84eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295414539708:android:3490fe02404ca860",
+        "android_client_info": {
+          "package_name": "com.example.neomi.pruebapost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295414539708-n53rtvsc06c06lfdor974leruh6mf3ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtykieIg0PYMUaJtd-N_0F2oQzM6Tw74c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
